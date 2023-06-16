@@ -1,6 +1,6 @@
 module.exports = {
 
-  title: 'Vue Admin Template',
+  title: '脑膜瘤智能诊断系统',
 
   /**
    * @type {boolean} true | false
